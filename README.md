@@ -12,7 +12,7 @@ This project aims to help myself get into NLP research as fast as possible.
 
 - D2L: 动手学深度学习 
 
-  Target: 熟悉Pytorch API，基础模型实现; For Reference when don't know how to realize certain things with pytorch.
+  Target: 熟悉Pytorch API; 基础模型实现; 作为工具书查阅相关概念
 
 - **Main Course: Stanford-CS224n-Natural Language Processing**
 
@@ -20,9 +20,9 @@ This project aims to help myself get into NLP research as fast as possible.
   - [Winter 2021 Video Lectures](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
   - [Assignment Reference](https://github.com/PKUFlyingPig/CS224n)
 
-  Target: Hands-on quickly; Read all important papers on Web Page; Check for all concepts that don't understand
+  Target: 精读Reading List中的相关论文; 实现5个Pset; 进行名词扫盲
 
-  Timeline: 2 lec/day, estimated finish in 2 weeks
+  Timeline: 2 lec/day; Estimated finish in 2 weeks
 
 ---
 
@@ -34,13 +34,11 @@ Different forms of resources collected from internet.
 
 ## Reference Projects:
 
-1. Fudan NLP-Beginner
-
-   Some basic NLP tasks to finish
+1. Fudan NLP-Beginner: Some basic NLP tasks
 
    1. [Github Page](https://github.com/FudanNLP/nlp-beginner)
    2. [Solution Page](https://github.com/Alic-yuan/nlp-beginner-finish)
-
+   
 2. NLP入门指南
 
    包含各类基础任务，相关模型、论文及实现
@@ -118,29 +116,26 @@ Advanced:
    4. Harvard-CS50’s Introduction to Artificial Intelligence with Python
 
       - [Course Web Page](https://cs50.harvard.edu/ai/2020/)
-
-
+      
       - [Assignment Reference](https://github.com/PKUFlyingPig/cs50_ai)
-
-   5. UCB-CS 188-Introduction to Artificial Intelligence
-      - [Fall 2018 Page](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
-
-   6. UCB-CS 189-Machine Learning
-
-      - [Fall 2019 Video Lectures](https://www.youtube.com/watch?v=slGymxkELYE&list=PLOOm2AoWIPEyZazQVnIcaK2KnezpGZV-X)
-
-
-      - [Spring 2021 Web Page](https://people.eecs.berkeley.edu/~jrs/189/)
-
-   7. Stanford-CS 229-Machine Learning
-
-      - [Autumn 2018 Page](http://cs229.stanford.edu/syllabus-autumn2018.html) 
-
-
-      - [Autumn 2018 Video Lectures(Andrew NG)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-
-
-      - [Summer 2020 Page](http://cs229.stanford.edu/syllabus-summer2020.html)
-
-
-      - [Summer 2020 Video Lectures](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+   
+      5. UCB-CS 188-Introduction to Artificial Intelligence
+         - [Fall 2018 Page](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
+   
+   
+      6. UCB-CS 189-Machine Learning
+   
+         - [Fall 2019 Video Lectures](https://www.youtube.com/watch?v=slGymxkELYE&list=PLOOm2AoWIPEyZazQVnIcaK2KnezpGZV-X)
+         
+         - [Spring 2021 Web Page](https://people.eecs.berkeley.edu/~jrs/189/)
+   
+      7. Stanford-CS 229-Machine Learning
+   
+         - [Autumn 2018 Page](http://cs229.stanford.edu/syllabus-autumn2018.html) 
+         
+         - [Autumn 2018 Video Lectures(Andrew NG)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+         
+         - [Summer 2020 Page](http://cs229.stanford.edu/syllabus-summer2020.html)
+         
+         -  [Summer 2020 Video Lectures](https://www.youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
+   
